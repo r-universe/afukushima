@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DiffCorr"]
 	path = DiffCorr
 	url = https://github.com/afukushima/diffcorr
-	shallow = true
-	registered = true
