@@ -5,3 +5,6 @@
 [submodule "DiffCorr"]
 	path = DiffCorr
 	url = https://github.com/afukushima/diffcorr
+[submodule "TFactSR"]
+	path = TFactSR
+	url = https://github.com/afukushima/tfactsr
